@@ -2,6 +2,10 @@
 
 ### Personal Finance Dashboard by Indra
 
+## 🚀 Live Links
+
+- 🌐 Live Demo: https://your-username.github.io/ika-finance/
+- 💻 GitHub Repository: https://github.com/your-username/ika-finance
 > A modern, feature-rich personal finance management web application for tracking income, expenses, budget goals, and gaining actionable spending insights.
 
 ---
